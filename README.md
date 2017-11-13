@@ -1,6 +1,6 @@
 ## Telegraf 模板输出数据格式
 
-最新文档请移步: [中文文档](https://www.sixianed.com/2017/10/18/Telegraf-Template-Output-Data-Formats/)
+最新文档请移步: [中文文档](https://www.sixianed.com/2017/10/18/cj9bgs7x3000p55yettpww5a1.html)
 
 让 Telegraf 的输出格式支持GO模板（text/template）:
 
